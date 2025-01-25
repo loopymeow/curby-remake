@@ -49,7 +49,7 @@ Select a save file, fly around as curby and try defeat enemies. Levels are compl
  ┣ 📂music           <- holds background music and sound effect wav files
  ┣ 📂screenshots     <- holds screenshots for the readme file
  ┣ 📜main.py         <- the main python file running the curby game
- ┣ 📙readme.md       <- this file describes everything that the game does
+ ┗📙readme.md       <- this file describes everything that the game does
 ```
 
 ## Screenshots
